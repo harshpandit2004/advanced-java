@@ -11,7 +11,6 @@ class Ex2 extends Frame {
         l.setBounds(100,50,300,50);
         add(l);
 
-        CheckboxGroup cbg = new CheckboxGroup();
         Checkbox lang1 = new Checkbox("English");
         Checkbox lang2 = new Checkbox("Hindi");
         Checkbox lang3 = new Checkbox("Sanskrit");
